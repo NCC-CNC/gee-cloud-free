@@ -9,9 +9,9 @@ A pixel-wise quality mosaic is used to select the clearest available pixel at ea
 ## Indices
 The following remote-sensing indices are generated:
 
-1. Enhanced Vegetation Index (EVI) – highlights vegetation health.  
-2. Burn Area Index (BAI) – identifies potential burned areas.  
-3. Normalized Burn Ratio (NBR) – detects vegetation loss, wildfire burn severity, or canopy disturbance.
+1. Enhanced Vegetation Index (EVI): highlights vegetation health.  
+2. Burn Area Index (BAI): identifies potential burned areas.  
+3. Normalized Burn Ratio (NBR): detects vegetation loss, wildfire burn severity, or canopy disturbance.
 
 ## Download
 Red, green, and blue bands—along with all generated indices—are exported to a Google Drive folder. These outputs can then be manually downloaded for further analysis in desktop GIS, such as change detection.
